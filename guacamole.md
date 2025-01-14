@@ -1,6 +1,6 @@
 #Guacamole
 ## Ingredients
 avocado
-lemon
+limes
 salt
 cilantro
